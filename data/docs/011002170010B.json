@@ -1,0 +1,18 @@
+{
+ "ref": "011002170010B",
+ "refDisplay": "0110 02 170010B",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10591",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

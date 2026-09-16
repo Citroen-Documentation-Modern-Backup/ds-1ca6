@@ -1,0 +1,18 @@
+{
+ "ref": "011002141912A",
+ "refDisplay": "0110 02 141912A",
+ "title": "PEDALE ACCELERATEUR",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE ET MONTAGE MULTIPLEXE CAN VAN ET SYSTEME INJECTION BOSCH JUSQU’A OPR 10646",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0010"
+  }
+ ]
+}

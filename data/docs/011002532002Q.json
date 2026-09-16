@@ -1,0 +1,18 @@
+{
+ "ref": "011002532002Q",
+ "refDisplay": "0110 02 532002Q",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "DEPOL TECHNIQUE VEHICULE INCITATION FISCALE EURO 4 ET REFRIGERATION DEPUIS OPR 09885",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0303"
+  }
+ ]
+}

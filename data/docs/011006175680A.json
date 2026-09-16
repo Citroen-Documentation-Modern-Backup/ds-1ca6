@@ -1,0 +1,18 @@
+{
+ "ref": "011006175680A",
+ "refDisplay": "0110 06 175680A",
+ "title": "RECYCLAGE GAZ ECHAPPEMENT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0012"
+  }
+ ]
+}

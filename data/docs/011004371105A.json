@@ -1,0 +1,18 @@
+{
+ "ref": "011004371105A",
+ "refDisplay": "0110 04 371105A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE JUSQU’A OPR 10108 OU BVM MA JUSQU’A OPR 10108",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "011001333350A",
+ "refDisplay": "0110 01 333350A",
+ "title": "BOITIER ELECTRONIQUE",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE ET AVEC STOP AND START",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F1Z",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "ref": "011003416420A",
+ "refDisplay": "0110 03 416420A",
+ "title": "MASSES EQUILIBRAGE",
+ "nature": "",
+ "applicability": "MONTAGE ROUE ALLIAGE JUSQU’A OPR 09820",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6P",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F3S",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7Y",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F1Z",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F6P",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F3S",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6P",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0023"
+  }
+ ]
+}

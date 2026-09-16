@@ -1,0 +1,18 @@
+{
+ "ref": "011006236013A",
+ "refDisplay": "0110 06 236013A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "BVM PILOTEE 5 RAPPORTS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0009"
+  }
+ ]
+}

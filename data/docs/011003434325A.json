@@ -1,0 +1,18 @@
+{
+ "ref": "011003434325A",
+ "refDisplay": "0110 03 434325A",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0032"
+  }
+ ]
+}

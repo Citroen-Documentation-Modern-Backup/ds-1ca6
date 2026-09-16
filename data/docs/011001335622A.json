@@ -1,0 +1,88 @@
+{
+ "ref": "011001335622A",
+ "refDisplay": "0110 01 335622A",
+ "title": "COMMANDE VITESSES COTE BV",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE DEPUIS OPR 10493",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6P",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F3S",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7Y",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F1Z",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F6P",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F3S",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6P",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0018"
+  }
+ ]
+}

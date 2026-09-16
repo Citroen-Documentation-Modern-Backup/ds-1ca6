@@ -1,0 +1,18 @@
+{
+ "ref": "011002144116A",
+ "refDisplay": "0110 02 144116A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) ET MONTAGE MULTIPLEXE CAN CAN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0010"
+  }
+ ]
+}

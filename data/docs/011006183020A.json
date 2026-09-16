@@ -1,0 +1,18 @@
+{
+ "ref": "011006183020A",
+ "refDisplay": "0110 06 183020A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10100",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0011"
+  }
+ ]
+}

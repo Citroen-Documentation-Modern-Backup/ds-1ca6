@@ -1,0 +1,28 @@
+{
+ "ref": "011006183050B",
+ "refDisplay": "0110 06 183050B",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 DEPUIS OPR 10255 JUSQU’A OPR 11878",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0011"
+  }
+ ]
+}

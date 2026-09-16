@@ -1,0 +1,18 @@
+{
+ "ref": "011001002015A",
+ "refDisplay": "0110 01 002015A",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "DEPOL TECHNIQUE VEHICULE INCITATION FISCALE EURO 4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  }
+ ]
+}

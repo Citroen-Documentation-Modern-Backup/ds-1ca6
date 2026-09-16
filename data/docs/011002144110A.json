@@ -1,0 +1,18 @@
+{
+ "ref": "011002144110A",
+ "refDisplay": "0110 02 144110A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "BVM PILOTEE 5 RAPPORTS JUSQU’A OPR 10177",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

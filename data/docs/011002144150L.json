@@ -1,0 +1,28 @@
+{
+ "ref": "011002144150L",
+ "refDisplay": "0110 02 144150L",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION INCITATION FISCALE EURO 4 (MOTEUR) ET SYSTEME INJECTION SIEMENS OU DEPOLLUTION EURO 4(MOTEUR) ET SYSTEME INJECTION SIEMENS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

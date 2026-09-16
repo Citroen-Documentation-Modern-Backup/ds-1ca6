@@ -1,0 +1,18 @@
+{
+ "ref": "011002144120A",
+ "refDisplay": "0110 02 144120A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10401",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0010"
+  }
+ ]
+}

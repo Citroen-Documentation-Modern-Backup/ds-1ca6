@@ -1,0 +1,88 @@
+{
+ "ref": "011005500860A",
+ "refDisplay": "0110 05 500860A",
+ "title": "KIT REPARATION CONNECTIQUE FAISCEAUX AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6P",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F3S",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7Y",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F1Z",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F6P",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F3S",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6P",
+   "fctId": "FCT0310"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0310"
+  }
+ ]
+}

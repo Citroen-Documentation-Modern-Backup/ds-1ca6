@@ -1,0 +1,18 @@
+{
+ "ref": "011002532002M",
+ "refDisplay": "0110 02 532002M",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 ET REFRIGERATION DEPUIS OPR 09885",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0303"
+  }
+ ]
+}

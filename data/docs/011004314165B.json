@@ -1,0 +1,18 @@
+{
+ "ref": "011004314165B",
+ "refDisplay": "0110 04 314165B",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "BVM5 ET CONDUITE A DROITE DEPUIS OPR 10493",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0047"
+  }
+ ]
+}

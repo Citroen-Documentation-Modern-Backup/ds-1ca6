@@ -1,0 +1,18 @@
+{
+ "ref": "011004456230B",
+ "refDisplay": "0110 04 456230B",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0044"
+  }
+ ]
+}

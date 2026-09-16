@@ -1,0 +1,28 @@
+{
+ "ref": "011004314530B",
+ "refDisplay": "0110 04 314530B",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE DEPUIS OPR 10018",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6P",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F6P",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6P",
+   "fctId": "FCT0016"
+  }
+ ]
+}

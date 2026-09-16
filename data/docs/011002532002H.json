@@ -1,0 +1,18 @@
+{
+ "ref": "011002532002H",
+ "refDisplay": "0110 02 532002H",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 INFERIEUR ET SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0303"
+  }
+ ]
+}

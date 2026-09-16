@@ -1,0 +1,18 @@
+{
+ "ref": "011003435210A",
+ "refDisplay": "0110 03 435210A",
+ "title": "BARRES ANTIDEVERS AVANT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11682",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0029"
+  }
+ ]
+}

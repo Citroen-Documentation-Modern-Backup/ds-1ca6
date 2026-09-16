@@ -1,0 +1,29 @@
+{
+ "ref": "1CA60110240",
+ "refDisplay": "1CA6 0 11 0240",
+ "title": "CARTER DE PALIER ARBRE A CAMES SUP",
+ "nature": "",
+ "applicability": "(7DIP) C2 BERLINE 3PTES DIESEL TURBO DV4TD BVM PILOTEE 5 RAPPORTS OU (7000) C2 BERLINE 3PTES DIESEL TURBO DV4TD BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAG&B0F=B0F7P",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DAE&B0F=B0F7P",
+   "fctId": "FCT0006"
+  }
+ ]
+}

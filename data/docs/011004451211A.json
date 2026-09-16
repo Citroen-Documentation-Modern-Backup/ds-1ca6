@@ -1,0 +1,18 @@
+{
+ "ref": "011004451211A",
+ "refDisplay": "0110 04 451211A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "MONTE PNEU 16 POUCES JUSQU’A OPR 10800",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0040"
+  }
+ ]
+}

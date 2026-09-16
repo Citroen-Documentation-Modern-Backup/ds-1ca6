@@ -1,0 +1,18 @@
+{
+ "ref": "011004314106A",
+ "refDisplay": "0110 04 314106A",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "BVM5 ET PEDALIER ALU ET CONDUITE A GAUCHE DEPUIS OPR 10388 JUSQU’A OPR 10492",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0047"
+  }
+ ]
+}

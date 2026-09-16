@@ -1,0 +1,18 @@
+{
+ "ref": "011002170060A",
+ "refDisplay": "0110 02 170060A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11710",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F9W",
+   "fctId": "FCT0010"
+  }
+ ]
+}

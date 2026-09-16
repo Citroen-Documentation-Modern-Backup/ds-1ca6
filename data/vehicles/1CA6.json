@@ -1,0 +1,199 @@
+{
+ "ldp": "1CA6",
+ "label": "C2",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA3",
+     "lib": "BERLINE 3PTES"
+    },
+    {
+     "val": "B0DAG",
+     "lib": "BERLINE COMMERCIALE"
+    },
+    {
+     "val": "B0DAE",
+     "lib": "BERLINE ENTREPRISE 3PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0F6P",
+     "lib": "1.1 i (TU1JP)"
+    },
+    {
+     "val": "B0F3S",
+     "lib": "1.1 i 60 (TU1A)"
+    },
+    {
+     "val": "B0F7Y",
+     "lib": "1.4 HDI"
+    },
+    {
+     "val": "B0F7P",
+     "lib": "1.4 HDi 70"
+    },
+    {
+     "val": "B0F1Z",
+     "lib": "1.4 i 16v 90"
+    },
+    {
+     "val": "B0FS1",
+     "lib": "1.4 i 75 (TU3A)"
+    },
+    {
+     "val": "B0F6Q",
+     "lib": "1.4 i 75 (TU3JP)"
+    },
+    {
+     "val": "B0F9W",
+     "lib": "1.6 HDi 110 FAP (DV6TED4)"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0FFG",
+     "lib": "1.6 i 16v 123 (TU5JP4S)"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA3&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F6P"
+   },
+   "label": "BERLINE 3PTES · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F3S",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F3S"
+   },
+   "label": "BERLINE 3PTES · 1.1 i 60 (TU1A)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F7Y",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F7Y"
+   },
+   "label": "BERLINE 3PTES · 1.4 HDI"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F7P",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F7P"
+   },
+   "label": "BERLINE 3PTES · 1.4 HDi 70"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F1Z",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F1Z"
+   },
+   "label": "BERLINE 3PTES · 1.4 i 16v 90"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FS1"
+   },
+   "label": "BERLINE 3PTES · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F6Q"
+   },
+   "label": "BERLINE 3PTES · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F9W",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F9W"
+   },
+   "label": "BERLINE 3PTES · 1.6 HDi 110 FAP (DV6TED4)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F6S"
+   },
+   "label": "BERLINE 3PTES · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FFG",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FFG"
+   },
+   "label": "BERLINE 3PTES · 1.6 i 16v 123 (TU5JP4S)"
+  },
+  {
+   "key": "B0D=B0DAG&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DAG",
+    "B0F": "B0F6P"
+   },
+   "label": "BERLINE COMMERCIALE · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DAG&B0F=B0F3S",
+   "selections": {
+    "B0D": "B0DAG",
+    "B0F": "B0F3S"
+   },
+   "label": "BERLINE COMMERCIALE · 1.1 i 60 (TU1A)"
+  },
+  {
+   "key": "B0D=B0DAG&B0F=B0F7P",
+   "selections": {
+    "B0D": "B0DAG",
+    "B0F": "B0F7P"
+   },
+   "label": "BERLINE COMMERCIALE · 1.4 HDi 70"
+  },
+  {
+   "key": "B0D=B0DAE&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DAE",
+    "B0F": "B0F6P"
+   },
+   "label": "BERLINE ENTREPRISE 3PTES · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DAE&B0F=B0F7P",
+   "selections": {
+    "B0D": "B0DAE",
+    "B0F": "B0F7P"
+   },
+   "label": "BERLINE ENTREPRISE 3PTES · 1.4 HDi 70"
+  }
+ ]
+}
