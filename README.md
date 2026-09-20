@@ -1,5 +1,5 @@
 # C2 (1CA6)
 
-Dataset for the Citroën documentation archive: 2514 documents and 3899 images for this vehicle, generated on 2026-09-16.
+Dataset for the Citroën documentation archive: 2514 documents and 3908 images for this vehicle, generated on 2026-09-20.
 
 Browse it at https://citroen-documentation-modern-backup.github.io/#/v/1CA6 — this repository holds data only; the viewer and the build tooling live in the archive's main repository.

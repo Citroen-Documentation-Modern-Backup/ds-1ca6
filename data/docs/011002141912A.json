@@ -1,18 +1,1 @@
-{
- "ref": "011002141912A",
- "refDisplay": "0110 02 141912A",
- "title": "PEDALE ACCELERATEUR",
- "nature": "",
- "applicability": "CONDUITE A DROITE ET MONTAGE MULTIPLEXE CAN VAN ET SYSTEME INJECTION BOSCH JUSQU’A OPR 10646",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA6",
-   "variantKey": "B0D=B0DA3&B0F=B0FFG",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"011002141912A","refDisplay":"0110 02 141912A","title":"PEDALE ACCELERATEUR","nature":"","applicability":"CONDUITE A DROITE ET MONTAGE MULTIPLEXE CAN VAN ET SYSTEME INJECTION BOSCH JUSQU’A OPR 10646","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA6","variantKey":"B0D=B0DA3&B0F=B0FFG","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CA6)(B0FFG)(DCX02)(DMW01)(DVY01)/($,,1,10646)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000785"},[]],["thesaurus",{"type":"10","code":"000176"},[]],["mpr",{"catal":"0110","grp":"41","grp2":"02","maj":"20110924","numfich":"141912A"},[["appl",{},["{(?1CA6)(B0FFG)(DCX02)(DMW01)(DVY01)/($,,1,10646)/}"]],["sti",{"ident":"4101"},[]],["img",{"numfich":"00095512","path":"/img/pr/12/0009/00095512.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000785","ref":"00001601P7","refpg":"1601 P7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"212, 280, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000176","ref":"0000160416","refpg":"1604 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"378, 266, 11","shape":"circle"},[]]]]]]]]]]}

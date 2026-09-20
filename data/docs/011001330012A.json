@@ -1,18 +1,1 @@
-{
- "ref": "011001330012A",
- "refDisplay": "0110 01 330012A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA6",
-   "variantKey": "B0D=B0DA3&B0F=B0F6S",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"011001330012A","refDisplay":"0110 01 330012A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA6","variantKey":"B0D=B0DA3&B0F=B0F6S","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CA6)(B0F6S)(DVQ04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"21","code":"L0919630"},[]],["mpr",{"catal":"0110","grp":"67","grp2":"01","maj":"20110924","numfich":"330012A"},[["appl",{},["{(?1CA6)(B0F6S)(DVQ04)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00077684","path":"/img/pr/84/0007/00077684.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009391","ref":"00002223RC","refpg":"2223 RC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)/($,,1,10057)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (16X63)"]]]],["reporg",{},[["monte",{},["CP75"]],["monte",{},["CPG5"]],["monte",{},["(CPG5)"]]]]]],["pr",{"codesi":"009390","ref":"00002222RV","refpg":"2222 RV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)}"]],["obsligne",{"ident":"L0919630"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP (16X63)"]]]],["reporg",{},[["monte",{},["CQ22"]],["monte",{},["CP75"]],["monte",{},["(CP75)"]],["monte",{},["(CQ22)"]]]]]],["pr",{"codesi":"009391","ref":"00002223YQ","refpg":"2223 YQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)/($1,10058,1,11122)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (16X63)"]]]],["reporg",{},[["monte",{},["CQ22"]],["monte",{},["CQB2"]],["monte",{},["(CQB2)"]]]]]],["pr",{"codesi":"009391","ref":"00002232V3","refpg":"2232 V3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)/($1,11123,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(16X63)"]]]],["reporg",{},[["monte",{},["CQN2"]],["monte",{},["(CQN2)"]],["monte",{},["CQ22"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"105, 138, 11","shape":"circle"},[]]]]]]]]]]}

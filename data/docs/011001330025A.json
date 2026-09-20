@@ -1,18 +1,1 @@
-{
- "ref": "011001330025A",
- "refDisplay": "0110 01 330025A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MA PILOTEE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA6",
-   "variantKey": "B0D=B0DA3&B0F=B0F6S",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"011001330025A","refDisplay":"0110 01 330025A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MA PILOTEE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA6","variantKey":"B0D=B0DA3&B0F=B0F6S","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CA6)(B0F6S)(DVQ14)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0110","grp":"67","grp2":"01","maj":"20110924","numfich":"330025A"},[["appl",{},["{(?1CA6)(B0F6S)(DVQ14)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00077684","path":"/img/pr/84/0007/00077684.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ps":"1","ref":"00002222HP","refpg":"2222 HP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(16X63)"]]]],["reporg",{},[["monte",{},["CP64"]],["monte",{},["CN48"]],["monte",{},["(CP64)"]]]]]],["pr",{"codesi":"009391","ps":"1","ref":"00002223PH","refpg":"2223 PH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)/($,,1,09785)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(16X63)"]]]],["reporg",{},[["monte",{},["CN48"]],["monte",{},["(CND8)"]],["monte",{},["CND8"]]]]]],["pr",{"codesi":"009391","ps":"1","ref":"00002223SP","refpg":"2223 SP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA6)(DCW39)/($1,09786,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (16X63)"]]]],["reporg",{},[["monte",{},["CP64"]],["monte",{},["CPF4"]],["monte",{},["(CPF4)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"105, 138, 11","shape":"circle"},[]]]]]]]]]]}
